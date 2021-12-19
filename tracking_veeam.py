@@ -43,3 +43,4 @@ INTERVAL_TIME = int(sys.argv[-1])
 
 tracking = Tracking(FILE_PATH)
 tracking.run_tracking(INTERVAL_TIME)
+
